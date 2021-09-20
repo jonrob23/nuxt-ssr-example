@@ -1,3 +1,5 @@
+## Check out the tutorial: [How To Deploy A Nuxt.js SSR App To An AWS EC2 Instance](https://vorlume.com/nzesalem/stories/how-to-deploy-a-nuxt-js-ssr-app-to-an-aws-ec2-instance)
+
 # nuxt-ssr-example
 
 ## Build Setup
