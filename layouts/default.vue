@@ -2,7 +2,7 @@
   <div class="default-layout">
     <b-navbar toggleable="lg" type="dark" variant="primary">
       <b-container>
-        <b-navbar-brand to="/">Nuxt SSR</b-navbar-brand>
+        <b-navbar-brand to="/">test ui</b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
